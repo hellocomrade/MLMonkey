@@ -11,3 +11,4 @@ pip install pandas
 brew install freetype
 pip install matplotlib
 ```
+Add iris example
